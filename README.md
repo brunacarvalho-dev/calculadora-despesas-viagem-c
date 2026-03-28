@@ -26,20 +26,20 @@ gasto_total = (distancia / 10) * preco
 ✔️ Cálculo automático do custo total
 ✔️ Exibição formatada com duas casas decimais
 
-
 ## ▶️ Como executar o projeto
-
 ### 1. Compile o código:
 gcc calculo_despesas_viagem.c -o programa
 
 ### 2. Execute:
 ./programa
 
+#### 3. Execute online:
+https://onlinegdb.com/Qyy2Erw2S
+
 ## 📁 Estrutura do projeto
 📦 calculadora-despesas-viagem-c
  ┣ 📜 calculo_despesas_viagem.c
  ┗ 📜 README.md
-
 
 ## 🎯 Objetivo
 Este projeto foi desenvolvido com foco em aprendizado e prática de lógica de programação, servindo como base para projetos mais avançados na área de desenvolvimento de software.
