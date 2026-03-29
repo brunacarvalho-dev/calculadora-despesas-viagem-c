@@ -19,12 +19,14 @@ O sistema permite que o usuário insira valores válidos e realiza o cálculo au
 ✔️ Cálculo automático do custo total
 ✔️ Exibição formatada com duas casas decimais
 
-📸 Preview:
+📸 Preview
+<p algin="center">
+  <img scr="preview.png.png" width="300">
+</p>
 
 ▶️ Como executar o projeto
 1. Compile o código:
 gcc calculo_despesas_viagem.c -o programa
-
 2. Execute:
 ./programa
 
